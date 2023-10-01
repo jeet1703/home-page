@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+.home-page {
+  background-image: url('background.png');
+  width: 100%;
+  background-size: cover;
+  
+ 
+  
+}
+.navbar {
+  background-color: transparent;
+}
+.navbar .nav-item .nav-link {
+  color: white;
+}
+.amity-text{
+  color: #FFF;
+text-align: center;
+font-family: Tinos;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 163.523%; /* 32.705px */
+}
+.nav-link{
+  margin: 0px 20px;
+}
+
+.navbar-toggler-icon{
+  color: white;
+  border: none;
+}
+
+.main-body{
+  /* margin: 10%; */
+  margin: 600rem 0;
+}
+
+
+
+
+
+.end{
+
+  margin: 10rem 0px   0rem 0 ;
+  
+}
